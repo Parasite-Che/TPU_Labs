@@ -1,0 +1,1 @@
+"C:\Users\tyuri\AppData\Local\bin\NASM\nasm.exe" -fbin -o LW1_bin.img main.ASM

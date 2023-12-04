@@ -1,0 +1,23 @@
+﻿  LW2.cpp
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(28,71): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(44,75): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(83,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(119,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(234,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(235,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(236,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(247,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(248,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(249,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(258,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\TPIRV\LW2\LW2\LW2.cpp(259,27): warning C4018: <: несоответствие типов со знаком и без знака
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LW2.vcxproj -> C:\distr\_TPU\TPIRV\LW2\x64\Release\LW2.exe

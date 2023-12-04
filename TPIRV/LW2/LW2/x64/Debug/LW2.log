@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  LW2.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LW2.obj : warning LNK4248: неразрешенная лексема TypeRef (0100000E) для "GLFWwindow"; образ нельзя запустить
+LW2.obj : warning LNK4248: неразрешенная лексема TypeRef (0100000F) для "GLFWmonitor"; образ нельзя запустить
+  LW2.vcxproj -> C:\distr\_TPU\ТПИРВ\LW2\x64\Debug\LW2.exe

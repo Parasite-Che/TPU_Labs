@@ -1,0 +1,2 @@
+C:\distr\_TPU\ТПИРВ\LW2\LW2\x64\Release\LW2.vcxproj.AssemblyReference.cache
+C:\distr\_TPU\TPIRV\LW2\LW2\x64\Release\LW2.vcxproj.AssemblyReference.cache

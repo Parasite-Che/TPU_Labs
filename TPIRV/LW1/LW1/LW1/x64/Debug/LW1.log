@@ -1,0 +1,34 @@
+﻿  LW1.cpp
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(38,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(39,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(40,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(50,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(51,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(52,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(89,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(99,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(100,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(109,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\type_traits(1574,98): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\thread(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::invoke<void(__cdecl *)(int32_t **,int32_t **,int32_t **,unsigned int,int,int),int32_t**,int32_t**,int32_t**,unsigned int,unsigned __int64,unsigned int>(_Callable &&,_Ty1 &&,int32_t **&&,int32_t **&&,unsigned int &&,unsigned __int64 &&,unsigned int &&) noexcept(false)"
+          with
+          [
+              _Callable=void (__cdecl *)(int32_t **,int32_t **,int32_t **,unsigned int,int,int),
+              _Ty1=int32_t **
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\thread(61): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4,5,6>(void *) noexcept"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\thread(68): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4,5,6>(std::integer_sequence<size_t,0,1,2,3,4,5,6>) noexcept)(void *)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\thread(87): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::thread::_Start<void(__cdecl &)(int32_t **,int32_t **,int32_t **,unsigned int,int,int),int32_t**&,int32_t**&,int32_t**&,unsigned int&,size_t&,_Ty>(_Fn,int32_t **&,int32_t **&,int32_t **&,unsigned int &,size_t &,_Ty &&)"
+          with
+          [
+              _Ty=unsigned int,
+              _Fn=void (__cdecl &)(int32_t **,int32_t **,int32_t **,unsigned int,int,int)
+          ]
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(68,64): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::thread::thread<void(__cdecl &)(int32_t **,int32_t **,int32_t **,unsigned int,int,int),int32_t**&,int32_t**&,int32_t**&,unsigned int&,size_t&,unsigned int,0>(_Fn,int32_t **&,int32_t **&,int32_t **&,unsigned int &,size_t &,unsigned int &&)"
+          with
+          [
+              _Fn=void (__cdecl &)(int32_t **,int32_t **,int32_t **,unsigned int,int,int)
+          ]
+C:\distr\_TPU\ТПИРВ\LW1\LW1\LW1\LW1.cpp(63): warning C4715: vector_mul: значение возвращается не при всех путях выполнения
+  LW1.vcxproj -> C:\distr\_TPU\ТПИРВ\LW1\LW1\x64\Debug\LW1.exe

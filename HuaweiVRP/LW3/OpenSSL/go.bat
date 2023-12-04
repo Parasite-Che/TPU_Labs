@@ -1,0 +1,1 @@
+openssl s_client -ign_eof -connect smtp.yandex.ru:465

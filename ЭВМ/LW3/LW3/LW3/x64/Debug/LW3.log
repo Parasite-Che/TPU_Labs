@@ -1,0 +1,4 @@
+﻿  LW3.cpp
+C:\distr\_TPU\ЭВМ\LW3\LW3\LW3\LW3.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\distr\_TPU\ЭВМ\LW3\LW3\LW3\LW3.cpp(88,19): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+  LW3.vcxproj -> C:\distr\_TPU\ЭВМ\LW3\LW3\x64\Debug\LW3.exe
